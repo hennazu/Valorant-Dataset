@@ -6,7 +6,7 @@ The author of this dataset scrapped together the data from spike.gg.
 # Objectives
 
 The main objective of this project is: 
-Develop a strategy guide for new Valorant players that maximizes their chances of winning by analyzing map performance, agent effectiveness, and player statistics.
+Develop a strategy guide for new Valorant players that maximizes their chances of winning by analysing map performance, agent effectiveness, and player statistics.
 
 To achieve this objective, we can break it down into a few specific goals:
 
