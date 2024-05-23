@@ -45,10 +45,11 @@ atk_played, atk_won, atk_won%: Number of attacking rounds played and won, and wi
 def_played, def_won, def_won%: Number of defending rounds played and won, and win percentage.
 pistol_played, pistol_won, pistol_won%: Number of pistol rounds played and won, and win percentage.
 
-
-
 # Main insights
 
 # Engineered Features
+Agents Dataset:
+Normalized Metrics: ACS, K/D, ADR
+Performance Score: Aggregate score using weighted sums of ACS (40%), K/D (40%), and ADR (20%)
 
 # Model Selection 
