@@ -49,7 +49,7 @@ pistol_played, pistol_won, pistol_won%: Number of pistol rounds played and won, 
 
 # Engineered Features
 Agents Dataset:
-Normalized Metrics: ACS, K/D, ADR
-Performance Score: Aggregate score using weighted sums of ACS (40%), K/D (40%), and ADR (20%)
+- Normalized Metrics: ACS, K/D, ADR
+- Performance Score: Aggregate score using weighted sums of ACS (40%), K/D (40%), and ADR (20%)
 
 # Model Selection 
