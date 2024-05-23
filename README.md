@@ -1,4 +1,4 @@
-# Valorant-Dataset
+# Valorant Dataset
 
 The dataset for this project can be found on Kaggle. 
 The author of this dataset scrapped together the data from spike.gg. 
